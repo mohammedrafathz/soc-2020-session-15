@@ -1,0 +1,3 @@
+SPECIFICITY
+
+tag < class < id < inline styling

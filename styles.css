@@ -1,0 +1,33 @@
+/* * {
+    background-color: blue;
+} */
+
+body {
+    margin: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #44eef0;
+}
+
+#body {
+    background-color: white;
+
+}
+
+p {
+    color: blue
+}
+
+.main-header {
+    color: #4422f0;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+#para {
+    color: red;
+}
+
+.para1 {
+    background-color: black;
+    color: yellow;
+}
